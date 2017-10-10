@@ -19,10 +19,11 @@ class ViewController: UIViewController {
             theLabel.text = "I also sometimes..."
         } else if theLabel.textColor == UIColor.orange {
             theLabel.textColor = UIColor.yellow
-            theLabel.text = "... change colour."
+            theLabel.text = "... change colour.."
         } else {
             theLabel.text = "But not always!"
         }
+         This is also part of the comment.
          */
         
         buttonPresses += 1
